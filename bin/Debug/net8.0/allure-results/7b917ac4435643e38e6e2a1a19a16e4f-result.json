@@ -1,0 +1,51 @@
+{
+  "uuid": "affd5e8e-a00a-4f02-b79c-1f998f4e5392",
+  "historyId": "296fe4e149a744a3af9d81421c80c986",
+  "testCaseId": "025e0e001d227cf7f6409c8c75bcda5e",
+  "fullName": "NUnitSeleniumCSharp:NUnitSeleniumCSharp.NUnitTest.AllureReportGeneration.Logout()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "AUTONGDQZYKQYIQ"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "NUnitSeleniumCSharp.NUnitTest"
+    },
+    {
+      "name": "testMethod",
+      "value": "Logout"
+    },
+    {
+      "name": "testClass",
+      "value": "AllureReportGeneration"
+    }
+  ],
+  "links": [],
+  "name": "Logout",
+  "status": "passed",
+  "stage": "finished",
+  "steps": [],
+  "attachments": [
+    {
+      "name": "Console Output",
+      "source": "a3f3fa3b-43d7-4812-b533-1ffb7cf0b6fa-attachment.txt",
+      "type": "text/plain"
+    }
+  ],
+  "parameters": [],
+  "start": 1726487135476,
+  "stop": 1726487135477
+}

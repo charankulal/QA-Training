@@ -1,0 +1,52 @@
+{
+  "uuid": "f1f0bf23-1139-4115-af96-47073bf6edcd",
+  "historyId": "3ef9f464fe39d839dc9f320e0902c53b",
+  "testCaseId": "ccba1946117d2291d84c38280ca16f15",
+  "fullName": "NUnitSeleniumCSharp:NUnitSeleniumCSharp.NUnitTest.Tests.Test1()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "AUTONGDQZYKQYIQ"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "NUnitSeleniumCSharp.NUnitTest"
+    },
+    {
+      "name": "testMethod",
+      "value": "Test1"
+    },
+    {
+      "name": "testClass",
+      "value": "Tests"
+    }
+  ],
+  "links": [],
+  "name": "Test1",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "Test Passed",
+    "trace": "   at NUnitSeleniumCSharp.NUnitTest.Tests.Test1() in C:\\Users\\ckula\\source\\repos\\NUnitSeleniumCSharp\\NUnitTest\\UnitTest1.cs:line 13\r\n"
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1726486895695,
+  "stop": 1726486895696
+}

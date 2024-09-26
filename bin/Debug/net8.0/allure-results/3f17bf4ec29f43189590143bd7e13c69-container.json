@@ -1,0 +1,12 @@
+{
+  "uuid": "28f9021e-4e26-4390-974c-8d3070d835e3",
+  "name": "NUnitSeleniumCSharp.NUnitTest.SetupAndTearDown.Logout",
+  "children": [
+    "82e6496d-9b1b-4390-8d72-7bc4e56e578b"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1726486647605,
+  "stop": 1726486647609
+}

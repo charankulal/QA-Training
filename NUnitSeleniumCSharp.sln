@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35208.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NUnitSeleniumCSharp", "NUnitSeleniumCSharp.csproj", "{A70664CC-7CA2-432A-9D19-3A244C4CEA14}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{161284A0-A97D-4B84-8979-8C9A98DFD7EE}"
+	ProjectSection(SolutionItems) = preProject
+		Calculator.cs = Calculator.cs
+		UnitTest1.cs = UnitTest1.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A70664CC-7CA2-432A-9D19-3A244C4CEA14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A70664CC-7CA2-432A-9D19-3A244C4CEA14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A70664CC-7CA2-432A-9D19-3A244C4CEA14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A70664CC-7CA2-432A-9D19-3A244C4CEA14}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8054E49D-5A82-4DB2-A60D-0618910D857D}
+	EndGlobalSection
+EndGlobal

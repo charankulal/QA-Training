@@ -1,0 +1,56 @@
+{
+  "uuid": "ba0fccfa-2c74-4fb3-8415-ddfb0943d41f",
+  "historyId": "50f9c35b71ee7f79f5ee9f8fef9a1a39",
+  "testCaseId": "15cd7590a6c0f4dbf471d13e683781a4",
+  "fullName": "NUnitSeleniumCSharp:NUnitSeleniumCSharp.NUnitTest.TestOrders.Login()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "AUTONGDQZYKQYIQ"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "NUnitSeleniumCSharp.NUnitTest"
+    },
+    {
+      "name": "testMethod",
+      "value": "Login"
+    },
+    {
+      "name": "testClass",
+      "value": "TestOrders"
+    },
+    {
+      "name": "tag",
+      "value": "Regression"
+    }
+  ],
+  "links": [],
+  "name": "Login",
+  "status": "broken",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "System.InvalidOperationException : Unable to change the container context because the test context is active.",
+    "trace": "   at Allure.Net.Commons.AllureContext.ValidateContainerContextCanBeModified()\r\n   at Allure.Net.Commons.AllureContext.WithContainer(TestResultContainer container)\r\n   at Allure.Net.Commons.AllureLifecycle.<>c__DisplayClass34_0.<StartTestContainer>b__0(AllureContext c)\r\n   at Allure.Net.Commons.AllureLifecycle.UpdateContext(Func`2 updateFn)\r\n   at Allure.Net.Commons.AllureLifecycle.StartTestContainer(TestResultContainer container)\r\n   at Allure.NUnit.Core.AllureNUnitHelper.StartTestContainer()\r\n   at Allure.NUnit.Core.AllureNUnitHelper.PrepareTestContext()\r\n   at Allure.NUnit.AllureNUnitAttribute.<>c__DisplayClass1_0.<BeforeTest>b__0()\r\n   at Allure.NUnit.AllureNUnitAttribute.RunHookInRestoredAllureContext(ITest test, Action action)\r\n   at Allure.NUnit.AllureNUnitAttribute.BeforeTest(ITest test)\r\n   at NUnit.Framework.Internal.Commands.TestActionCommand.<>c__DisplayClass0_0.<.ctor>b__0(TestExecutionContext context)\r\n   at NUnit.Framework.Internal.Commands.BeforeAndAfterTestCommand.<>c__DisplayClass1_0.<Execute>b__0()\r\n   at NUnit.Framework.Internal.Commands.DelegatingTestCommand.RunTestMethodInThreadAbortSafeZone(TestExecutionContext context, Action action)"
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1726486647632,
+  "stop": 1726486647633
+}

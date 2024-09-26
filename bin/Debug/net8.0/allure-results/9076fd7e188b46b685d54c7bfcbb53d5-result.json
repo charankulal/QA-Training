@@ -1,0 +1,51 @@
+{
+  "uuid": "7bd36a37-a48c-4d8e-a17a-e9ff5e143037",
+  "historyId": "dce510f59462712faae6e42a0e25be32",
+  "testCaseId": "53368f0a91bb9566f5b8e2e97686968c",
+  "fullName": "NUnitSeleniumCSharp:NUnitSeleniumCSharp.NUnitTest.FactorialNumberUnitTest.TestCaseThree()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "AUTONGDQZYKQYIQ"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "NUnitSeleniumCSharp.NUnitTest"
+    },
+    {
+      "name": "testMethod",
+      "value": "TestCaseThree"
+    },
+    {
+      "name": "testClass",
+      "value": "FactorialNumberUnitTest"
+    }
+  ],
+  "links": [],
+  "name": "TestCaseThree",
+  "status": "passed",
+  "stage": "finished",
+  "steps": [],
+  "attachments": [
+    {
+      "name": "Console Output",
+      "source": "1cd4e241-78c5-4161-b5a5-d4e97255d28b-attachment.txt",
+      "type": "text/plain"
+    }
+  ],
+  "parameters": [],
+  "start": 1726487135628,
+  "stop": 1726487135629
+}

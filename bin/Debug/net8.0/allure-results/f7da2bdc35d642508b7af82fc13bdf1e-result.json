@@ -1,0 +1,55 @@
+{
+  "uuid": "9ccea9a8-dce8-4d78-9130-aa039237246e",
+  "historyId": "50f9c35b71ee7f79f5ee9f8fef9a1a39",
+  "testCaseId": "15cd7590a6c0f4dbf471d13e683781a4",
+  "fullName": "NUnitSeleniumCSharp:NUnitSeleniumCSharp.NUnitTest.TestOrders.Login()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "AUTONGDQZYKQYIQ"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "NUnitSeleniumCSharp.NUnitTest"
+    },
+    {
+      "name": "testMethod",
+      "value": "Login"
+    },
+    {
+      "name": "testClass",
+      "value": "TestOrders"
+    },
+    {
+      "name": "tag",
+      "value": "Regression"
+    }
+  ],
+  "links": [],
+  "name": "Login",
+  "status": "passed",
+  "stage": "finished",
+  "steps": [],
+  "attachments": [
+    {
+      "name": "Console Output",
+      "source": "7d8e7c23-bb89-4b69-aa11-9901cbec73d5-attachment.txt",
+      "type": "text/plain"
+    }
+  ],
+  "parameters": [],
+  "start": 1726487135708,
+  "stop": 1726487135710
+}

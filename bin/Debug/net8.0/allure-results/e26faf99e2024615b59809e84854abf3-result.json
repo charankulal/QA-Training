@@ -1,0 +1,51 @@
+{
+  "uuid": "23458c0b-e13a-452d-b9a2-a7bb83f20ab0",
+  "historyId": "ceac0bb04dc7465d9390d364e81e089a",
+  "testCaseId": "7e593a7756dc721c23ce338092d80c7a",
+  "fullName": "NUnitSeleniumCSharp:NUnitSeleniumCSharp.NUnitTest.UnittestCalciSetUPTeardown.AddTest()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "AUTONGDQZYKQYIQ"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "NUnitSeleniumCSharp.NUnitTest"
+    },
+    {
+      "name": "testMethod",
+      "value": "AddTest"
+    },
+    {
+      "name": "testClass",
+      "value": "UnittestCalciSetUPTeardown"
+    }
+  ],
+  "links": [],
+  "name": "AddTest",
+  "status": "passed",
+  "stage": "finished",
+  "steps": [],
+  "attachments": [
+    {
+      "name": "Console Output",
+      "source": "87f01652-b514-4490-9c1e-1656a73669a1-attachment.txt",
+      "type": "text/plain"
+    }
+  ],
+  "parameters": [],
+  "start": 1726484198074,
+  "stop": 1726484198082
+}

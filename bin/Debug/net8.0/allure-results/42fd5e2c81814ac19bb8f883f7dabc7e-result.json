@@ -1,0 +1,52 @@
+{
+  "uuid": "308377f4-166c-4ad9-9f47-2eb7a6191f9a",
+  "historyId": "cd0b81348354f632bc12aef58f394116",
+  "testCaseId": "06d08126fafa0328449045f105da0bc3",
+  "fullName": "NUnitSeleniumCSharp:NUnitSeleniumCSharp.NUnitTest.Assertions.testassertion()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "AUTONGDQZYKQYIQ"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "NUnitSeleniumCSharp.NUnitTest"
+    },
+    {
+      "name": "testMethod",
+      "value": "testassertion"
+    },
+    {
+      "name": "testClass",
+      "value": "Assertions"
+    }
+  ],
+  "links": [],
+  "name": "testassertion",
+  "status": "failed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "  Expected string length 5 but was 6. Strings differ at index 0.\r\n  Expected: \"Kulal\"\r\n  But was:  \"charan\"\r\n  -----------^\r\n",
+    "trace": "   at NUnitSeleniumCSharp.NUnitTest.Assertions.testassertion() in C:\\Users\\ckula\\source\\repos\\NUnitSeleniumCSharp\\NUnitTest\\Assertions.cs:line 34\r\n"
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1726486647458,
+  "stop": 1726486647498
+}

@@ -1,0 +1,12 @@
+{
+  "uuid": "8fc679ed-f2eb-4ea8-8dde-bcaf1837ef29",
+  "name": "NUnitSeleniumCSharp.NUnitTest.CategoryTesting.Login",
+  "children": [
+    "1b703fce-712a-4ecf-ac2d-19f07115ed0b"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1726484083306,
+  "stop": 1726484083308
+}

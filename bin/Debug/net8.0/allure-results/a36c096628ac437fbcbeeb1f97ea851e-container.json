@@ -1,0 +1,12 @@
+{
+  "uuid": "508daf76-882c-4e92-a06b-7e4b5da707e6",
+  "name": "NUnitSeleniumCSharp.NUnitTest.UnittestCalciSetUPTeardown.AddTest",
+  "children": [
+    "c252cdae-0a3c-458f-97e3-a392a71fd9fd"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1726486707411,
+  "stop": 1726486707421
+}
