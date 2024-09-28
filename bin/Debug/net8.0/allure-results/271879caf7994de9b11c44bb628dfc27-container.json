@@ -1,0 +1,12 @@
+{
+  "uuid": "8e1a04e2-2686-4a14-ae27-ae13dc8e10b4",
+  "name": "NUnitSeleniumCSharp.NUnitTest.AllureReportGeneration.Logout",
+  "children": [
+    "f3ae293b-732b-4b89-93df-06f151416751"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1727420728572,
+  "stop": 1727420728575
+}

@@ -1,0 +1,51 @@
+{
+  "uuid": "a49f7331-a6b9-4d03-b1b6-81f4c0764921",
+  "historyId": "9fb547af6d7def89f819ed9036910515",
+  "testCaseId": "d5ff9dd84e5bc41efe06c15201596c0b",
+  "fullName": "NUnitSeleniumCSharp:NUnitSeleniumCSharp.NUnitTest.SetupAndTearDown.Logout()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "AUTONGDQZYKQYIQ"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "NUnitSeleniumCSharp.NUnitTest"
+    },
+    {
+      "name": "testMethod",
+      "value": "Logout"
+    },
+    {
+      "name": "testClass",
+      "value": "SetupAndTearDown"
+    }
+  ],
+  "links": [],
+  "name": "Logout",
+  "status": "passed",
+  "stage": "finished",
+  "steps": [],
+  "attachments": [
+    {
+      "name": "Console Output",
+      "source": "cac35caf-5680-408d-8a12-cb6279b22346-attachment.txt",
+      "type": "text/plain"
+    }
+  ],
+  "parameters": [],
+  "start": 1727419780658,
+  "stop": 1727419780660
+}

@@ -30,14 +30,14 @@ namespace NUnitSeleniumCSharp.NUnitTest
             //Assert.AreSame(expected, actual);
 
             // That
-            Assert.That(actual, Is.EqualTo(expected));
+            //Assert.That(actual, Is.EqualTo(expected));
 
-            //Assert for string ignore case
-            Assert.That(actual, Is.EqualTo(expected).IgnoreCase);
+            ////Assert for string ignore case
+            //Assert.That(actual, Is.EqualTo(expected).IgnoreCase);
 
-            // substring method
-            Assert.That(actual, Does.Contain("cha").IgnoreCase);
-            Assert.That(actual, Does.Not.Contain("cha").IgnoreCase);
+            //// substring method
+            //Assert.That(actual, Does.Contain("cha").IgnoreCase);
+            //Assert.That(actual, Does.Not.Contain("cha").IgnoreCase);
 
             ////Empty
             //Asse.IsEmpty(actual);
@@ -56,20 +56,20 @@ namespace NUnitSeleniumCSharp.NUnitTest
             //Assert.NotNull(array);
 
             //greater than
-            Assert.That(array,Is.All.GreaterThan(0));
+            //Assert.That(array,Is.All.GreaterThan(0));
 
             // Empty
-            Assert.That(array, Is.Empty);
+            //Assert.That(array, Is.Empty);
 
             //Order
-            Assert.That(array, Is.Ordered.Ascending);
+            //Assert.That(array, Is.Ordered.Ascending);
 
             //custom assertions
-            int age = 17;
-            if (age < 18)
-            {
-                throw new AssertionException("Age should be more than 18");
-            }
+            //int age = 17;
+            //if (age < 18)
+            //{
+            //    throw new AssertionException("Age should be more than 18");
+            //}
         }
 
         

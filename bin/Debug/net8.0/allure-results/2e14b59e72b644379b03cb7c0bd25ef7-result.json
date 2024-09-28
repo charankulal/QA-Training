@@ -1,0 +1,55 @@
+{
+  "uuid": "da6d7116-6f32-4e86-8b66-1d1f7c40e77e",
+  "historyId": "379cf92193900202415fec26a4fcae35",
+  "testCaseId": "3eb41df744dd8c8f53e3b441d3ad11ca",
+  "fullName": "NUnitSeleniumCSharp:NUnitSeleniumCSharp.NUnitTest.TestOrders.Logout()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "AUTONGDQZYKQYIQ"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "NUnitSeleniumCSharp.NUnitTest"
+    },
+    {
+      "name": "testMethod",
+      "value": "Logout"
+    },
+    {
+      "name": "testClass",
+      "value": "TestOrders"
+    },
+    {
+      "name": "tag",
+      "value": "Regression"
+    }
+  ],
+  "links": [],
+  "name": "Logout",
+  "status": "passed",
+  "stage": "finished",
+  "steps": [],
+  "attachments": [
+    {
+      "name": "Console Output",
+      "source": "b516fe2f-9209-47dd-8b09-13e8e59d4b7b-attachment.txt",
+      "type": "text/plain"
+    }
+  ],
+  "parameters": [],
+  "start": 1727419663814,
+  "stop": 1727419663815
+}

@@ -1,0 +1,12 @@
+{
+  "uuid": "ae343c57-e448-4326-9c4b-8652f58d3640",
+  "name": "NUnitSeleniumCSharp.NUnitTest.TestOrders.Logout",
+  "children": [
+    "6b1c2ad8-4628-4053-926c-a0a445d7102d"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1727420070420,
+  "stop": 1727420070422
+}

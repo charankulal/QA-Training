@@ -1,0 +1,12 @@
+{
+  "uuid": "1354e488-60c1-4411-9044-8b5cf5ff682a",
+  "name": "NUnitSeleniumCSharp.NUnitTest.SetupAndTearDown.addTocart",
+  "children": [
+    "fb85fdd9-f4a2-400a-915a-625e86480e85"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1727419276301,
+  "stop": 1727419276304
+}

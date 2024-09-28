@@ -1,0 +1,3 @@
+Launching chrome broswer
+Logout successful
+Closing chrome browser

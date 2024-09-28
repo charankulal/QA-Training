@@ -1,0 +1,12 @@
+{
+  "uuid": "c3564a0e-2a68-43b2-92a4-a9794481bc63",
+  "name": "NUnitSeleniumCSharp.NUnitTest.CategoryTesting.addTocart",
+  "children": [
+    "e862a052-8927-4bba-a8a5-2d49aa32f70e"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1727420728604,
+  "stop": 1727420728608
+}

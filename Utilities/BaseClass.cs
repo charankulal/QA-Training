@@ -50,7 +50,7 @@ namespace NUnitSeleniumCSharp.Utilities
         [TearDown]
         public void tearDown()
         {
-           
+            driver.Close();
         }
     
     }

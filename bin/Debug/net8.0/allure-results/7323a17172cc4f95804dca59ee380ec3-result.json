@@ -1,0 +1,51 @@
+{
+  "uuid": "bec4c893-dd2e-4b18-b1cd-f35b358577e3",
+  "historyId": "295e1f0ca14bab138fae537085241525",
+  "testCaseId": "a620f10bf8993e91d7ce572a3efe2caf",
+  "fullName": "NUnitSeleniumCSharp:NUnitSeleniumCSharp.NUnitTest.PrimeNumberUnitTest.TestForNegative()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "AUTONGDQZYKQYIQ"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "NUnitSeleniumCSharp.NUnitTest"
+    },
+    {
+      "name": "testMethod",
+      "value": "TestForNegative"
+    },
+    {
+      "name": "testClass",
+      "value": "PrimeNumberUnitTest"
+    }
+  ],
+  "links": [],
+  "name": "TestForNegative",
+  "status": "passed",
+  "stage": "finished",
+  "steps": [],
+  "attachments": [
+    {
+      "name": "Console Output",
+      "source": "a9fe23d1-9de4-44de-af38-68db9d63939f-attachment.txt",
+      "type": "text/plain"
+    }
+  ],
+  "parameters": [],
+  "start": 1727419780638,
+  "stop": 1727419780639
+}

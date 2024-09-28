@@ -1,0 +1,15 @@
+{
+  "uuid": "15ec9822-b075-49ad-a790-5409a5ef9bfc",
+  "name": "NUnitSeleniumCSharp.NUnitTest.SetupAndTearDown",
+  "children": [
+    "d8f63c7c-e075-485b-bb55-7e2002586474",
+    "a8a328ea-d4f8-498c-a220-1a7d9e9f1235",
+    "d5dfb92d-53e2-474f-86c7-68fc4621ff50",
+    "f5a8c4f4-4788-4b62-b9f5-48c3fe3005f3"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1727420070393,
+  "stop": 1727420070413
+}
